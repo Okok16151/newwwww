@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "who are you",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "red"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "accuse",
+			"text": "you're acting sus",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "red"
+		},
+		{
+			"expression": "talk",
+			"text": "no",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "i am crewmate :)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "accuse",
+			"text": "sus",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "red"
+		},
+		{
+			"expression": "confused",
+			"text": "noo im not",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "accuse",
+			"text": "sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus sus",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "red"
+		},
+		{
+			"expression": "talk",
+			"text": "rap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "okay",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "red"
+		}
+	]
+}
